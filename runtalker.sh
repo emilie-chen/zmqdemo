@@ -1,0 +1,2 @@
+rosrun ros_zeromq_tutorial talker_zmq
+
